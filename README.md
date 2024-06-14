@@ -1,1 +1,1 @@
-# Project Slayer
+# Publisher template
